@@ -22,4 +22,4 @@ cd week-1-mongodb-fundamentals-assignment-Cfuna22
 
 
 ---
-`![Insert your screenshot here](./Screenshot.png)`
+`![Insert your screenshot here](/Screenshot.png)`
