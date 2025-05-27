@@ -22,4 +22,6 @@ cd week-1-mongodb-fundamentals-assignment-Cfuna22
 
 
 ---
-`![Insert your screenshot here](/Screenshot.png)`
+## Screenshot
+
+![Screenshot showing MongoDB Compass with book data](./Screenshot.png)
