@@ -24,5 +24,5 @@ cd week-1-mongodb-fundamentals-assignment-Cfuna22
 ---
 ## Screenshot
 
-![MongoDB Compass Screenshot](./Screenshot.png)
+![MongoDB Compass Screenshot](Screenshot.png)
 
